@@ -1,0 +1,1 @@
+cmd /c java -cp "C:\Users\aluno\Documents\Gabriela\cli_app" Programa
